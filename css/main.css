@@ -37,6 +37,9 @@ body {
     color: white;
     background-color: black;
 }
+#sideNav {
+    opacity: 0;
+}
 #container {
     padding: .1em 1.5em 1em 1em;
     margin-left: 50px;
