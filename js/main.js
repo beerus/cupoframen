@@ -19,7 +19,7 @@ var configs = (function () {
         }
     };
     Singleton.defaultOptions = {
-        general_help: "Below there's a list of commands that you can use.\nYou can use autofill by pressing the TAB key, autocompleting if there's only 1 possibility, or showing you a list of possibilities.",
+        general_help: "Below there's a list of commands that you can use.\nYou can use autofill by pressing the TAB key or double tapping on a mobile device, autocompleting if there's only 1 possibility, or showing you a list of possibilities.",
         ls_help: "List information about the files and folders (the current directory by default).",
         about_help: "Get info about me.",
         service_help: "Affordable freelance services available.",
