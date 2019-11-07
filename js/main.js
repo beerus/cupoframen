@@ -1,10 +1,10 @@
 "use strict";
-var str = new String("CodePen");
-var URL = "https://codepen.io/rajual";
-var link = "http://codepen.io";
+var str = new String("Glitch");
+var URL = "https://glitch.com/@rajualzaki";
+var link = "https://glitch.com";
 var element = document.createElement("a");
 element.setAttribute("href", link);
-element.innerHTML = "CodePen";
+element.innerHTML = "Glitch";
 /**
  * Configs
  */
