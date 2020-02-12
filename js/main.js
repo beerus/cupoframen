@@ -1,10 +1,10 @@
 "use strict";
-var str = new String("Glitch");
-var URL = "https://glitch.com/@rajualzaki";
-var link = "https://glitch.com";
+var str = new String("Github");
+var URL = "https://github.com/beerus";
+var link = "https://github.com";
 var element = document.createElement("a");
 element.setAttribute("href", link);
-element.innerHTML = "Glitch";
+element.innerHTML = "Github";
 /**
  * Configs
  */
@@ -41,10 +41,10 @@ var configs = (function () {
         sudo_help: "Execute a command as the superuser.",
         welcome: "> Greetings, my name is Raj. Can I interest you in some gluten-free browser cookies?\n\n ..Or you can type 'help' for a list of commands.",
         internet_explorer_warning: "NOTE: I see you're using internet explorer, this website won't work properly.",
-        about_file_name: "An Appalachian child that can be found nestled at home with a Raspberry Pi and infuriated by lines of code. A passion for technology eventually became an inspiration, 'City Planet' and as well, turning Westsyvlanian mountaineers into Data Miners. Getting in trouble in high school for programming Ping-Pong in Visual Basics may be the only highlight in my tech career. I have completed Code Louisville, a developer bootcamp, and I am currently attending Indiana University to advance my career in Computer Science. I upload for-fun projects on "
-         + str.link( URL ) + " and occassionally " + "GitHub." + " I currently reside in Louiville, Kentucky. If I'm not having a migraine from staring at the sun known as my computer monitor, I may be out skateboarding, playing basketball, running, writing for artistic expression or binging anime on Netflix.",
-        service_file_name: "Do you have an interesting project idea or are you seeking affordability?\nWell look no more.\n\nAPP DEVELOPMNET\n..currently unavailable\n\nSoftware DEVELOPMENT\n..currently unavailable\n\nWEB DEVELOPMENT\n..Do you need a website for your business, professional portfolio, product or blog?\n..Your site will have a\nMOBILE-FIRST APPROACH\nSEO TO RANK HIGHER ON SEARCH ENGINE\nACCESSIBILITY\nUI & UX Design.\n\n..If this interest you click 'contact' and share your idea and lets get started.\n..\n\niPhone Repair\nBroken Screen? Let's fix it.\nPrices vary by model.\nContact me for pricing.",
-        social_file_name: "If you have found any embarrassing photos of me on the Internet, please return them because I want to laugh too.\nYou can find me on\n\n..Reddit - @fvce-less\n..Instagram - @fvce.less\n..and YouTube - Rajual Zaki",
+        about_file_name: "An Appalachian child that can be found nestled at home with a Raspberry Pi and infuriated by lines of code. A passion for technology eventually became an aspiration, 'City Planet' and as well, turning Westsyvlanian mountaineers into Data Miners. Getting in trouble in high school for programming Ping-Pong in Visual Basics may be the only highlight in my tech career. I have completed Code Louisville, a developer bootcamp, and I am currently attending WGU to advance my career in Computer Science. I upload for-fun projects on "
+         + str.link( URL ) + " and occassionally " + "Glitch." + " I currently reside in Louiville, Kentucky. If I'm not having a migraine from staring at the sun known as my computer monitor, I may be out skateboarding, playing basketball, running, writing for artistic expression or binging anime on Netflix.",
+        service_file_name: "Do you have an interesting project idea or are you seeking affordability?\nWell look no more.\n\nAPP DEVELOPMNET\n..currently unavailable\n\nSoftware DEVELOPMENT\n..currently unavailable\n\nWEB DEVELOPMENT\n..currently unavailable\n\niPhone Repair\nBroken Screen? Let's fix it.\nPrices vary by model.\nContact me for pricing.",
+        social_file_name: "If you have found any embarrassing photos of me on the Internet, please return them because I want to laugh too.\nYou can find me on\n\n..Reddit - @fvce-less\n..Twitter - @rajie_raj\n..Instagram - @rajie_raj\n..and YouTube - Rajual Zaki",
         reminder_file_name: "[July 16, 2019] 'Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there. When the soul lies down in that grass the world is too full to talk about.' - RUMI\n..\n [August 19, 2019] 'Be not afraid of growing slowly, be afaid of only standing still' - Chinese Proverb",
         contact_file_name: "If you are an employer or client wishing to get in touch with me, you can e-Mail me and I will get back to you as soon as possible.",
         welcome_file_name: "This directory is just to showcase my portfolio. This site was last updated October 5, 2019.\n\nABOUT\nSERVICE\nSOCIAL\nREMINDER",
